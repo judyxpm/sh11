@@ -1,3 +1,6 @@
 1
 2
 3
+[master 56b747a] ĞŞ¸ÄÄÚÈİ
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+ create mode 100644 abc.txt
